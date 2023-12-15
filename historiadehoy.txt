@@ -1,0 +1,20 @@
+    1  cd
+    2  cd dir
+    3  dir
+    4  dir Downloads/
+    5  cd Downloads/
+    6  cd ejemplo-git
+    7  touch adios.txt
+    8  git status
+    9  git add .
+   10  git status
+   11  git log
+   12  git status
+   13  git commit
+   14  git status
+   15  git log
+   16  git commit
+   17  git status
+   18  git log
+   19  history
+   20  history >> historiadehoy.txt
